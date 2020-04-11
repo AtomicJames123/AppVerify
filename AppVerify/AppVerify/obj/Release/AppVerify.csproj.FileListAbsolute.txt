@@ -38,3 +38,12 @@ C:\AppVerify\AppVerify\obj\Release\AppVerify.csproj.CoreCompileInputs.cache
 C:\AppVerify\AppVerify\obj\Release\AppVerify.exe
 C:\AppVerify\AppVerify\obj\Release\AppVerify.pdb
 C:\AppVerify\AppVerify\obj\Release\AppVerify.csprojAssemblyReference.cache
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\bin\Release\AppVerify.exe.config
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\bin\Release\AppVerify.exe
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\bin\Release\AppVerify.pdb
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Release\AppVerify.csprojAssemblyReference.cache
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Release\AppVerify.MasterForm.resources
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Release\AppVerify.Properties.Resources.resources
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Release\AppVerify.csproj.GenerateResource.cache
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Release\AppVerify.exe
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Release\AppVerify.pdb

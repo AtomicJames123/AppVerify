@@ -58,3 +58,12 @@ C:\AppVerify\AppVerify\obj\Debug\AppVerify.csproj.GenerateResource.cache
 C:\AppVerify\AppVerify\obj\Debug\AppVerify.csproj.CoreCompileInputs.cache
 C:\AppVerify\AppVerify\obj\Debug\AppVerify.exe
 C:\AppVerify\AppVerify\obj\Debug\AppVerify.pdb
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Debug\AppVerify.csprojAssemblyReference.cache
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Debug\AppVerify.pdb
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\bin\Debug\AppVerify.exe.config
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\bin\Debug\AppVerify.exe
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\bin\Debug\AppVerify.pdb
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Debug\AppVerify.MasterForm.resources
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Debug\AppVerify.Properties.Resources.resources
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Debug\AppVerify.csproj.GenerateResource.cache
+C:\Users\James\Downloads\AppVerify-master\AppVerify-master\AppVerify\AppVerify\obj\Debug\AppVerify.exe
